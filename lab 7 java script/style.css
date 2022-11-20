@@ -1,0 +1,49 @@
+
+	
+ header ,h1{color:whitesmoke;}
+
+table ,td,tr {border: 3px solid;
+ border-collapse: collapse;
+text-align: center;
+color: whitesmoke;
+padding: 15px;}
+table {margin-top: auto;
+  width: 100%;
+}
+
+td {
+  font-family: "Courier New",Monospace;
+}
+
+ 
+ #pozaprofil{
+	 width: 400px;
+	 height: auto;
+	  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-bottom: 60px;
+  border-radius: 30%
+ }
+ header , p {
+	 text-align: center;
+	 font-size:30px;
+	 font-family: 	"Copperplate",Fantasy;
+	 padding:30px;
+color:whitesmoke;	 ;
+ }
+body {
+ background-image: url("f1backround.jpg");
+background-size: cover;
+background-size: contain; 
+background-repeat: no-repeat;
+background-color: black;
+}
+h2,ul,li{
+	color: whitesmoke;
+	text-align: left;
+
+}
+li{border: 1px solid;
+	border-color: green;
+width: 10%}
